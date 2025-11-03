@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Food Photographer",
+  "description": "Generate high-end food photography from your menu, with customizable styles and AI-powered editing using Gemini.",
+  "requestFramePermissions": []
+}
